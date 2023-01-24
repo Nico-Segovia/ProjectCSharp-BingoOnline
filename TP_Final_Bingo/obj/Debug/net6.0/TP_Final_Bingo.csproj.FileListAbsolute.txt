@@ -1,0 +1,174 @@
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\appsettings.json
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.staticwebassets.runtime.json
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.exe
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.deps.json
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.runtimeconfig.json
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.pdb
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.csproj.AssemblyReference.cache
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.AssemblyInfoInputs.cache
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.AssemblyInfo.cs
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.csproj.CoreCompileInputs.cache
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.RazorAssemblyInfo.cache
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.RazorAssemblyInfo.cs
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets\msbuild.TP_Final_Bingo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets\msbuild.build.TP_Final_Bingo.props
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP_Final_Bingo.props
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP_Final_Bingo.props
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\scopedcss\bundle\TP_Final_Bingo.styles.css
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\scopedcss\projectbundle\TP_Final_Bingo.bundle.scp.css
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.csproj.CopyComplete
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\refint\TP_Final_Bingo.dll
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.pdb
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.genruntimeconfig.cache
+C:\Users\jsegovia\Desktop\mina claver\curso_punto_net_6.0\53_TP_Final_Bingo\TP_Final_Bingo\TP_Final_Bingo\obj\Debug\net6.0\ref\TP_Final_Bingo.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\appsettings.json
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.staticwebassets.runtime.json
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.exe
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.deps.json
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.runtimeconfig.json
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\TP_Final_Bingo.pdb
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.csproj.AssemblyReference.cache
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.AssemblyInfoInputs.cache
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.AssemblyInfo.cs
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.csproj.CoreCompileInputs.cache
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.RazorAssemblyInfo.cache
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.RazorAssemblyInfo.cs
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets\msbuild.TP_Final_Bingo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets\msbuild.build.TP_Final_Bingo.props
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP_Final_Bingo.props
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP_Final_Bingo.props
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\scopedcss\bundle\TP_Final_Bingo.styles.css
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\scopedcss\projectbundle\TP_Final_Bingo.bundle.scp.css
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.csproj.CopyComplete
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\refint\TP_Final_Bingo.dll
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.pdb
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\TP_Final_Bingo.genruntimeconfig.cache
+C:\Users\jsegovia\Desktop\bbb\ProjectCSharp-BingoOnline\TP_Final_Bingo\obj\Debug\net6.0\ref\TP_Final_Bingo.dll
